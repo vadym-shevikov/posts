@@ -1,1 +1,2 @@
-Post 1
+<pre/>
+<code>Post 1</code>
