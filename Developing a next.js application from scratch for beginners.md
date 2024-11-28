@@ -1,3 +1,3 @@
-![Minion|100](https://octodex.github.com/images/minion.png)
+<description>Невеличкий опис для статті який буде доступний тільки на списку всіх статтів але не буде доступний у самій статті</description>
 
-Hello world
+## Hello world
