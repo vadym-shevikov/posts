@@ -1,11 +1,5 @@
-<title>
-  Title of post
-</title>
-
 <description>
 Невеличкий опис для статті який буде доступний тільки на списку всіх статтів але не буде доступний у самій статті
 </description>
-
-<created>01.12.2024</created>
 
 ## Hello world 11222
