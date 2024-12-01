@@ -4,4 +4,5 @@
 
 <created>12.01.2024</created>
 
-## Hello world
+## In javascript everything is not an object
+In javascript variables doesn't have types, values do.
