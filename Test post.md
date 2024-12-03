@@ -16,7 +16,6 @@ console.log(typeof undefined);       // "undefined"
 console.log(typeof Symbol('id'));    // "symbol"
 console.log(typeof BigInt(123456));  // "bigint"
 ```
-
 ### Objects
 ```javascript
 console.log(typeof {});              // "object"
@@ -27,14 +26,12 @@ console.log(typeof new Map());       // "object"
 console.log(typeof new Set());       // "object"
 console.log(typeof /abc/);           // "object"
 ```
-
 ### Function
 ```javascript
 console.log(typeof function() {});   // "function"
 console.log(typeof (() => {}));      // "function"
 console.log(typeof class MyClass {}); // "function"
 ```
-
 ### Another
 ```javascript
 console.log(typeof NaN);             // "number"
