@@ -1,4 +1,10 @@
-<description>Всі можливості MD розмітки</description>
+---
+title: "Whole file"
+date: "2025-10-10"
+tags: ["all"]
+summary: "Summary post of all types"
+published: true
+---
 
 # Headers
 
