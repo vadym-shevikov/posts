@@ -1,3 +1,11 @@
+---
+title: "Hello World"
+date: "2025-01-01"
+tags: ["intro"]
+summary: "Summary post"
+published: true
+---
+
 <description>
 Невеличкий опис для статті який буде доступний тільки на списку всіх статтів але не буде доступний у самій статті
 </description>
