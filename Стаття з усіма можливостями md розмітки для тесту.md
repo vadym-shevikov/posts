@@ -1,6 +1,6 @@
 ---
 title: "Whole file"
-date: "2025-10-10"
+date: "2024-10-10"
 tags: ["default"]
 summary: "Summary post of all types"
 published: true
