@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Test post"
 date: "2025-01-01"
 tags: ["intro"]
 summary: "Summary post"
